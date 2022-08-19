@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=소공전에막걸리%20디자인&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Design%20UI%20UX%20GUI&fontSize=40" />
 
 
 ### 얄시미 디자인 하는 중 뚠뚠..🐜🐜
