@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=200&section=header&text=Design_%20UI%20UX%20GUI&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=AAA7F2&height=200&section=header&text=Design_%20UI%20UX%20GUI&fontSize=30" />
 
 
 #### ⚒TOOLS
