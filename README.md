@@ -1,5 +1,5 @@
-
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=🍓Design-UI-UX-GUI-🍓&fontSize=폰트크기)
+https://capsule-render.vercel.app/api?
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <hr>
 
 ### 얄시미 디자인 하는 중 뚠뚠..🐜🐜
