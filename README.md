@@ -9,13 +9,10 @@
 #### 💙CLICK HERE💙
 
 #### Kiosk
-- 키오스크 아이콘 가져오기
-- 키오스크 UI/UX 가져오기
 
 #### Elevator
-- 엘레베이터 아이콘 가져오기
-- 엘레베이터 UI/UX 가져오기
 
+#### Memo _planner ocr
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=AAA7F2&height=180&section=footer)
